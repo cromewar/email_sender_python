@@ -27,7 +27,7 @@ In order to make the script work properly you must active an option on your gmai
 
 Accont Settings > Less Secured Apps > turn it on.
 
-Mor info on:
+More info on:
 
 http://google.com - Less Secured Apps
 [Google](https://support.google.com/accounts/answer/6010255)
